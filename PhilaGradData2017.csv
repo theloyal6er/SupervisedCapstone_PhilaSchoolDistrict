@@ -1,0 +1,85 @@
+School,SchoolID,Enrollment,AdmissionsType,OverallScore,OverallTier,OverallCategory,AchieveScore,ProgressScore,ClimateScore,CollegeCareerScore,StayOnTrackScore,Attendance_95above_Score,Attendance_90-95_Score,Attendance_8590_Score,Attendance_8085_Score,Attendance_below80_Score,RetentionScore,ISS_Score,OSS_Score,StudentSurveyClimateScore,ParentSurveyClimateScore,ParentSurveyParticipationScore,GradScore,FFMatricScore,AP_Score,AP_Participants_Score,AP_NonParticipants_Score,ACTSAT_Score,ACTSAT_Participants_Score,ACTSAT_NonParticipants_Score,FAFSAScore,StudentSurveyCollegeCareerScore,TeacherEffectDistinguishedScore,TeacherEffectInstructionScore,TeacherAttendanceScore,StudentSurveyTeachingScore
+John Bartram High School,101,601,Neighborhood,14,INTERVENE,1,0,28,11,5,90,13,12,11,12,52,73,100,83,54,0,4,58,24,6,4,90,0,68,32,42,19,15,21,56,47
+West Philadelphia High School,102,483,Neighborhood,22,INTERVENE,1,0,44,14,12,80,10,15,17,10,48,75,100,77,59,79,22,64,43,3,27,70,0,72,28,48,27,11,29,56,42
+High School of the Future,103,476,Citywide,23,INTERVENE,1,3,27,46,17,94,25,31,18,7,19,89,100,93,0,0,3,73,61,0,28,72,1,72,28,59,0,16,13,50,0
+Paul Robeson High School for Human Services,105,297,Citywide,41,WATCH,2,0,60,61,55,91,37,29,17,6,10,89,100,96,69,0,6,96,48,10,24,67,4,90,6,67,27,15,15,61,55
+William L. Sayre High School,110,492,Neighborhood,8,INTERVENE,1,0,13,12,5,86,8,13,12,10,57,59,100,87,56,0,9,53,18,0,7,93,1,74,25,38,24,6,10,53,46
+Motivation High School,119,387,Special Admit,28,WATCH,2,4,27,55,50,96,35,29,17,6,13,85,100,96,0,0,8,93,60,1,91,7,4,93,3,68,0,0,15,52,0
+South Philadelphia High School,200,611,Neighborhood,7,INTERVENE,1,0,6,15,10,73,18,17,11,8,47,68,100,86,57,70,11,53,27,24,10,66,1,61,38,40,26,4,4,64,39
+Benjamin Franklin High School,201,547,Neighborhood,4,INTERVENE,1,1,8,1,1,73,8,14,14,13,52,61,93,65,0,0,7,46,26,8,0,92,0,68,32,28,0,0,0,46,0
+High School for Creative and Performing Arts School,202,693,Special Admit,51,REINFORCE,3,41,48,62,72,99,42,33,10,6,8,96,100,99,0,0,6,97,79,23,23,53,28,63,9,83,0,28,28,63,0
+Julia R. Masterman School,214,442,Special Admit,74,REINFORCE,3,100,41,93,93,100,87,12,1,0,0,100,100,100,70,82,16,100,94,83,9,7,100,0,0,94,30,68,68,70,59
+Furness High School,216,692,Neighborhood,27,WATCH,2,2,42,42,15,91,26,23,15,10,26,81,100,90,58,81,10,70,42,11,25,64,6,88,7,66,22,0,3,74,53
+Franklin Learning Center,229,871,Special Admit,32,WATCH,2,11,26,61,60,89,32,31,15,7,13,90,100,98,64,77,11,92,72,18,38,44,16,78,6,79,25,10,11,57,49
+Girard Academic Music Program,241,239,Special Admit,69,REINFORCE,3,56,73,77,77,98,56,30,9,3,3,98,99,98,0,92,13,96,85,25,33,42,52,48,0,83,0,30,52,71,0
+Academy at Palumbo,262,903,Special Admit,67,REINFORCE,3,58,61,83,82,97,55,27,9,3,6,95,100,99,64,79,33,99,81,21,45,35,44,54,2,85,27,19,50,75,55
+Science Leadership Academy,265,492,Special Admit,66,REINFORCE,3,65,49,84,84,100,57,29,8,2,4,97,100,99,73,88,24,99,84,19,0,81,55,39,6,85,31,61,52,71,64
+Constitution High School,267,372,Citywide,51,REINFORCE,3,23,73,48,65,97,23,41,18,8,10,94,100,93,71,0,3,97,73,13,74,13,9,87,3,88,26,0,0,81,58
+The Science Leadership Academy at Beeber,268,476,Special Admit,50,REINFORCE,3,33,49,67,68,98,40,34,11,5,10,93,100,96,62,86,12,97,74,0,0,100,17,82,1,88,24,63,63,80,55
+Overbrook High School,402,573,Neighborhood,4,INTERVENE,1,1,8,3,1,68,6,12,12,11,60,63,100,68,0,0,1,55,23,1,5,94,0,80,20,32,0,3,10,60,0
+High School of Engineering and Science,403,776,Special Admit,76,MODEL,4,71,78,80,77,97,60,25,8,2,4,96,99,99,64,0,8,96,86,14,59,27,48,52,0,83,31,73,70,77,48
+Murrell Dobbins Career and Technical High School,406,610,Citywide,18,INTERVENE,1,0,18,22,61,91,12,21,19,15,33,77,100,82,59,80,12,96,38,60,19,21,2,85,13,58,25,12,18,60,43
+Strawberry Mansion High School,414,312,Neighborhood,5,INTERVENE,1,0,7,5,13,72,11,12,11,12,54,67,100,54,58,0,2,52,39,3,19,78,1,75,23,58,25,6,6,41,47
+Thomas A. Edison High School,502,1053,Neighborhood,12,INTERVENE,1,0,20,12,14,90,9,14,13,12,52,66,95,81,52,73,11,59,26,44,12,43,1,61,38,39,22,32,45,72,41
+Philadelphia Military Academy,505,247,Citywide,41,WATCH,2,6,58,52,65,99,29,34,20,7,10,90,100,93,60,0,2,100,54,0,33,67,8,90,2,83,25,44,33,71,52
+Jules E. Mastbaum Area Vocational Technical High School,506,755,Citywide,20,INTERVENE,1,4,23,33,32,89,13,28,20,15,23,84,100,77,0,0,1,83,31,76,15,9,0,86,14,55,0,0,10,64,0
+Parkway Northwest High School,507,246,Special Admit,29,WATCH,2,5,25,53,63,98,31,34,17,6,12,91,100,92,60,0,3,97,68,2,27,71,8,89,3,76,22,9,18,69,45
+Parkway Center City High School,508,558,Special Admit,66,REINFORCE,3,45,91,58,64,93,30,33,17,7,13,92,100,100,0,84,12,97,73,4,65,31,14,84,1,85,0,43,43,71,0
+Parkway West High School,509,258,Special Admit,31,WATCH,2,13,40,40,36,75,29,26,17,10,18,82,100,82,0,87,11,85,65,0,77,23,6,64,30,62,0,0,0,65,0
+William W. Bodine High School,515,513,Special Admit,51,REINFORCE,3,38,46,62,82,94,36,35,14,6,8,91,95,96,61,77,14,100,77,27,38,34,32,66,2,83,27,37,42,82,47
+Penn Treaty High School,516,346,Neighborhood,19,INTERVENE,1,3,39,14,7,84,14,19,14,12,39,76,100,84,0,74,11,73,28,0,7,93,2,66,32,55,0,3,0,33,0
+Kensington High School for Creative and Performing Arts,552,505,Neighborhood,18,INTERVENE,1,1,23,31,25,89,12,20,20,11,37,81,100,91,62,0,6,82,42,0,0,100,2,78,20,54,19,0,0,53,43
+Kensington Health Sciences Academy,555,467,Neighborhood,21,INTERVENE,1,0,40,14,19,87,10,24,16,13,37,74,100,77,60,87,23,77,42,19,15,65,0,65,35,56,27,10,0,65,53
+Building 21,561,348,Citywide,9,INTERVENE,1,0,14,16,N/A,N/A,8,21,16,15,41,71,99,81,56,85,22,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16,5,11,63,45
+The U School,562,236,Citywide,9,INTERVENE,1,0,0,31,N/A,N/A,6,21,13,11,49,77,100,100,60,85,28,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,22,38,38,71,50
+The LINC,566,238,Citywide,14,INTERVENE,1,1,24,18,N/A,88,15,28,15,13,29,71,100,88,59,71,19,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,16,0,0,69,43
+Kensington High School,570,628,Neighborhood,13,INTERVENE,1,0,22,16,7,84,8,13,13,13,53,77,98,83,54,0,4,77,21,4,18,78,1,73,26,32,26,5,9,67,46
+Central High School,601,2315,Special Admit,91,MODEL,4,95,89,92,90,98,69,20,6,2,3,98,100,98,63,79,19,99,91,46,19,36,87,11,2,92,31,19,25,90,51
+Roxborough High School,603,624,Neighborhood,14,INTERVENE,1,0,21,22,13,94,19,25,21,11,23,81,83,78,0,0,6,72,47,11,38,51,4,76,20,60,0,8,36,58,0
+Walter B. Saul High School,604,550,Special Admit,30,WATCH,2,9,23,50,70,98,21,37,18,9,15,89,100,93,62,83,10,96,64,43,35,23,14,83,3,76,26,48,81,78,41
+Philadelphia High School for Girls,605,1013,Special Admit,57,REINFORCE,3,46,63,59,64,96,38,31,13,6,13,94,100,99,0,0,2,92,86,23,25,52,31,68,1,92,0,53,71,62,0
+Martin Luther King High School,606,888,Neighborhood,8,INTERVENE,1,0,16,5,3,83,12,13,11,9,55,55,100,68,56,0,8,53,24,4,4,92,0,57,43,29,21,26,40,56,40
+A. Philip Randolph Career and Technical High School,609,518,Citywide,26,WATCH,2,1,44,20,37,90,11,20,18,15,36,80,100,72,56,0,5,86,27,61,22,17,2,88,10,41,33,12,12,66,39
+Hill-Freedman World Academy,646,332,Special Admit,44,WATCH,2,41,40,68,18,87,45,29,13,7,7,89,100,99,0,80,10,64,59,13,43,43,27,33,40,45,0,8,8,54,0
+Lankenau High School,654,352,Special Admit,42,WATCH,2,8,50,65,72,98,35,38,15,6,7,92,100,94,64,86,38,100,77,0,68,32,7,91,2,75,26,0,25,68,52
+Frankford High School,701,1088,Neighborhood,10,INTERVENE,1,0,21,8,2,87,15,15,13,11,46,73,100,84,0,0,1,58,23,4,7,89,1,63,36,35,0,0,17,51,0
+Samuel Fels High School,712,988,Neighborhood,11,INTERVENE,1,1,20,10,7,87,17,22,15,11,34,72,100,82,58,0,3,70,32,3,19,78,3,71,26,41,23,0,12,63,41
+Abraham Lincoln High School,801,1527,Neighborhood,11,INTERVENE,1,1,18,9,17,82,14,18,18,10,41,73,100,78,60,0,3,79,35,11,27,61,5,67,28,51,24,13,38,63,49
+Northeast High School,802,3386,Neighborhood,37,WATCH,2,20,44,50,41,86,29,25,15,9,22,85,100,89,57,0,1,80,64,29,23,49,28,62,10,75,25,6,17,63,52
+George Washington High School,803,1314,Neighborhood,21,INTERVENE,1,7,25,31,24,88,24,23,15,11,27,79,98,83,56,71,20,74,59,19,20,61,20,62,18,64,23,7,23,69,45
+Arts Academy at Benjamin Rush,804,606,Special Admit,56,REINFORCE,3,52,41,76,77,100,49,32,11,4,3,96,100,97,73,95,13,98,83,11,23,66,41,57,2,86,28,38,29,73,58
+Swenson Arts and Technology High School,809,668,Citywide,31,WATCH,2,15,20,65,55,97,37,31,15,8,8,92,100,93,59,76,33,94,37,61,30,9,3,88,9,52,25,13,17,75,46
+The Workshop School,856,230,Citywide,32,WATCH,2,0,29,63,39,97,32,29,15,9,16,91,100,97,68,89,24,89,33,13,16,72,3,94,3,63,32,38,56,88,59
+Community Academy of Philadelphia Charter School ,W01,600,Citywide,53,REINFORCE,3,11,81,66,45,88,41,28,13,7,11,90,91,95,72,93,11,87,60,11,15,73,10,53,37,83,34,N/A,N/A,N/A,58
+World Communications Charter School,W03,382,Citywide,11,INTERVENE,1,0,0,9,N/A,N/A,N/A,N/A,N/A,N/A,N/A,86,N/A,N/A,0,0,0,N/A,N/A,0,24,76,4,69,28,68,0,N/A,N/A,N/A,0
+Imhotep Institute Charter High School,W09,579,Citywide,29,WATCH,2,0,40,43,41,96,26,31,22,9,12,82,N/A,87,64,89,26,86,67,0,9,91,4,75,20,64,22,N/A,N/A,N/A,41
+Multicultural Academy Charter School,W12,270,Citywide,59,REINFORCE,3,8,93,82,51,94,56,30,10,1,3,86,N/A,N/A,77,91,32,90,62,0,0,100,14,74,12,72,45,N/A,N/A,N/A,72
+"Preparatory Charter School of Mathematics, Science, Technology and Careers",W13,578,Citywide,32,WATCH,2,9,29,55,57,91,40,36,14,4,6,92,64,86,60,0,0,93,68,0,3,97,4,87,9,78,29,N/A,N/A,N/A,46
+Architecture and Design Charter School,W17,538,Citywide,26,WATCH,2,0,37,35,45,94,22,30,20,12,16,87,100,72,0,0,5,90,56,0,0,100,5,64,31,72,0,N/A,N/A,N/A,0
+Freire Charter School,W18,510,Citywide,53,REINFORCE,3,20,83,49,44,90,41,32,16,5,6,82,100,81,62,0,2,86,70,1,38,61,1,72,27,86,26,N/A,N/A,N/A,53
+"Math, Civics and Sciences Charter School",W21,304,Citywide,31,WATCH,2,0,31,68,49,99,44,27,18,5,5,91,100,86,68,92,19,88,70,1,17,82,7,79,14,92,22,N/A,N/A,N/A,44
+Philadelphia Academy Charter School,W22,432,Citywide,40,WATCH,2,15,37,67,64,99,50,32,11,3,4,97,100,95,0,0,2,96,67,8,28,64,31,45,24,69,0,N/A,N/A,N/A,0
+Mastery Charter School at Hardy Williams,W23,375,Citywide With Criteria,30,WATCH,2,4,41,37,45,92,27,25,13,12,23,87,96,56,0,0,0,89,65,5,30,65,1,90,9,84,0,N/A,N/A,N/A,0
+"Mathematics, Science, and Technology Community Charter School (MaST)",W28,425,Citywide,59,REINFORCE,3,45,52,80,85,95,54,34,9,3,1,97,100,97,72,91,19,100,86,20,30,50,55,37,8,90,24,N/A,N/A,N/A,59
+Franklin Towne Charter High School,W31,1193,Citywide With Criteria,82,MODEL,4,67,93,90,71,95,64,32,2,1,1,96,85,99,75,89,57,95,69,20,4,76,37,59,4,80,37,N/A,N/A,N/A,69
+Mariana Bracetti Academy Charter School,W32,585,Citywide,61,REINFORCE,3,27,95,62,54,94,37,29,17,8,9,87,82,93,66,90,16,93,54,5,19,77,14,57,29,73,29,N/A,N/A,N/A,56
+Esperanza Academy Charter School,W33,768,Citywide,53,REINFORCE,3,10,88,53,51,89,37,30,13,7,13,90,64,85,63,0,0,91,47,25,20,55,2,51,47,80,24,N/A,N/A,N/A,52
+New Foundations Charter School,W34,760,Citywide With Criteria,46,WATCH,2,25,49,69,53,100,59,33,4,2,1,95,84,89,0,0,3,88,69,22,15,63,28,66,6,77,0,N/A,N/A,N/A,0
+Philadelphia Performing Arts: A String Theory Charter School,W36,799,Citywide With Criteria,52,REINFORCE,3,23,60,74,55,94,42,33,15,5,5,94,100,99,65,90,39,91,67,6,10,84,15,59,26,75,27,N/A,N/A,N/A,51
+Delaware Valley Charter High School,W42,655,Citywide,14,INTERVENE,1,0,5,12,30,N/A,N/A,N/A,N/A,N/A,N/A,88,N/A,N/A,0,0,0,82,58,0,14,86,4,75,21,68,0,N/A,N/A,N/A,0
+KIPP DuBois Charter School,W53,522,Citywide With Criteria,29,WATCH,2,2,35,50,44,93,31,32,16,11,10,88,100,54,49,86,27,87,68,4,31,65,4,95,1,86,17,N/A,N/A,N/A,38
+Philadelphia Electrical and Technology Charter School,W58,613,Citywide,47,WATCH,2,7,88,36,30,92,20,25,23,11,21,83,100,87,63,0,3,85,43,0,13,88,4,71,25,53,17,N/A,N/A,N/A,49
+Mastery Charter School at Lenfest Campus,W61,357,Citywide With Criteria,40,WATCH,2,13,49,50,44,81,37,25,12,12,13,88,100,78,0,0,0,86,79,4,45,51,7,84,9,88,0,N/A,N/A,N/A,0
+First Philadelphia Preparatory Charter School,W64,328,Citywide With Criteria,25,WATCH,2,2,32,40,31,87,28,33,17,11,11,89,99,75,0,0,8,84,53,1,13,86,1,63,36,64,0,N/A,N/A,N/A,0
+Maritime Academy Charter School (MACHS),W66,273,Citywide,37,WATCH,2,15,42,65,27,86,33,35,18,5,9,89,100,98,63,87,31,80,49,0,31,69,4,69,28,70,20,N/A,N/A,N/A,53
+Mastery Charter School at Shoemaker Campus,W83,529,Citywide With Criteria,40,WATCH,2,5,51,68,45,89,58,23,9,4,6,89,100,83,0,0,0,86,81,8,42,50,8,90,3,94,0,N/A,N/A,N/A,0
+Mastery Charter School at Thomas Campus,W85,448,Citywide With Criteria,27,WATCH,2,9,25,50,42,91,35,25,15,12,13,87,100,83,0,0,0,86,68,6,25,69,12,81,6,88,0,N/A,N/A,N/A,0
+Boys Latin of Philadelphia Charter School,W88,445,Citywide,36,WATCH,2,3,48,67,26,93,49,29,12,5,5,85,100,98,0,0,1,74,83,1,20,79,13,86,1,94,0,N/A,N/A,N/A,0
+Mastery Charter School at Pickett Campus,W93,468,Citywide With Criteria,39,WATCH,2,7,65,33,45,84,23,30,22,14,11,85,100,67,0,0,0,89,61,4,35,62,7,79,14,87,0,N/A,N/A,N/A,0
+Eastern University Academy Charter School,W97,239,Citywide,29,WATCH,2,3,47,42,24,96,45,38,9,4,4,81,100,76,0,0,3,67,77,0,0,100,4,80,16,86,0,N/A,N/A,N/A,0
+Sankofa Freedom Academy Charter School,W99,194,Citywide With Criteria,35,WATCH,2,2,66,31,43,98,35,35,16,7,8,77,100,76,53,88,26,84,75,0,24,76,5,88,7,85,28,N/A,N/A,N/A,43
+Tacony Academy Charter School,X04,389,Citywide With Criteria,32,WATCH,2,0,48,53,21,91,31,32,21,8,8,97,100,79,67,86,11,77,55,3,30,67,5,51,44,61,24,N/A,N/A,N/A,50
+Aspira Charter School at Olney,X14,1790,Neighborhood,20,INTERVENE,1,0,27,41,9,82,15,21,17,11,36,82,100,91,57,59,40,64,34,2,8,90,3,46,52,47,24,N/A,N/A,N/A,51
+Mastery Charter School at Gratz,X16,1183,Neighborhood,12,INTERVENE,1,0,20,14,15,77,28,24,15,12,21,77,72,55,0,0,0,64,47,0,27,73,0,60,40,70,0,N/A,N/A,N/A,0
+Universal Charter School at Audenried,X17,612,Neighborhood,22,INTERVENE,1,0,19,58,19,88,69,20,6,2,3,79,100,75,62,0,7,78,38,24,55,21,1,52,47,49,25,N/A,N/A,N/A,46
+TECH Freire Charter School,X41,304,Citywide With Criteria,15,INTERVENE,1,1,28,12,N/A,91,27,30,16,12,15,63,100,58,66,0,0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,24,N/A,N/A,N/A,39
